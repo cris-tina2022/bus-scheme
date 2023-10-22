@@ -1,1 +1,1 @@
-Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
