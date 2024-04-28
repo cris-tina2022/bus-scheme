@@ -1,1 +1,1 @@
-fix predict with class filter
+Add docs guide terminal images (#8819)
